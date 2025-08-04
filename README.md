@@ -8,7 +8,7 @@ List of MCPs used in different configs
 MCP extracting up to date documentation for libraries.
 No additional configuration required.
 
-### [atlassian](https://github.com/sooperset/mcp-atlassian)
+### [atlassian](MCP/atlassian/atlassian_mcp.md)
 Confluence and Jira integration MCP. Requires docker setup to work.
 
 ### [github](https://github.com/github/github-mcp-server)
